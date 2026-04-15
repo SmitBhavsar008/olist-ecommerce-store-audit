@@ -1,0 +1,5 @@
+"payment_type","total_orders","pct_of_orders","avg_order_value","total_revenue","avg_installments","avg_review_score"
+"credit_card","73220","75.9","165.52","12119178.05","3.5","4.16"
+"boleto","19191","19.9","144.33","2769932.71","1.0","4.16"
+"voucher","2582","2.7","124.75","322096.42","1.5","4.14"
+"debit_card","1484","1.5","140.45","208423.11","1.0","4.24"

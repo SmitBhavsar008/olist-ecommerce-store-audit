@@ -1,0 +1,5 @@
+"customer_segment","customer_count","pct_of_customers","segment_revenue","avg_order_value"
+"1 order  — New customer","90557","97.00","14555586.29","160.73"
+"2 orders — Returning","2573","2.76","748811.57","145.52"
+"3 orders — Regular","181","0.19","78333.95","144.26"
+"4+ orders — Loyal","47","0.05","37041.94","170.51"
